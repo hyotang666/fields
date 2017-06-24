@@ -1,7 +1,7 @@
 (defpackage :fields.spec
   (:use :cl :jingoh :fields))
 (in-package :fields.spec)
-(setup :fields.spec)
+(setup :fields)
 
 (requirements-about EVERYF)
 

@@ -6,4 +6,4 @@
   :components
   ((:file "fields"))
   :perform
-  (test-op (o c) (symbol-call :jingoh :examine)))
+  (test-op (o c) (symbol-call :jingoh :examine :fields)))
