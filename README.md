@@ -18,10 +18,7 @@ FIELDS provides it.
 Adding features when needs are found.
 ### License
 MIT
-### Developped with
-CLISP/2.49
 ### Tested with
-SBCL/1.3.17
-CCL/1.11-r16635
-ECL/16.1.3
+SBCL/1.4.15
+CCL/1.11.5
 
